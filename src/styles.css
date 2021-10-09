@@ -1,0 +1,14 @@
+body {
+  background-color: #030303;
+}
+h1 {
+  text-align: center;
+  color: #ff0000;
+}
+section {
+  color: aliceblue;
+  font-size: 2.5ex;
+}
+footer {
+  color: aliceblue;
+}
